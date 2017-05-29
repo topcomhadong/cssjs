@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2r37SFT' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>Học SEO chuyên sâu</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://www.facebook.com/Piaggio-Vespa-tr%E1%BA%A3-g%C3%B3p-ch%C3%ADnh-h%C3%A3ng-246508289151928/' target='_blank'><img src='http://s3.storage.2banh.vn/image/2016/05/ban-xe-vespa-primavera-sprint-gts-lxv-lx-liberty-abs-medly-2016-24731-1462722444-572f5f8c73251.JPG' width='500px'/><br/>Học SEO chuyên sâu</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
